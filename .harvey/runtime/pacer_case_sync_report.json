@@ -1,0 +1,30 @@
+{
+  "timestamp_utc": "2026-07-05T12:01:34.678071+00:00",
+  "watchlist_file": "/Users/billydeeii136/lawyersongithub/.harvey/LEGAL_CASE_WATCHLIST.yaml",
+  "session_file": "/Users/billydeeii136/lawyersongithub/.harvey/runtime/pacer_session.json",
+  "session_status": "unknown",
+  "session_transport": "none",
+  "total_cases": 3,
+  "queued_pacer_queries": [
+    {
+      "case_title": "US v Davis",
+      "court": "usdc-ednc",
+      "case_number": "5:14-CR-240",
+      "query_type": "pacer_case_lookup"
+    }
+  ],
+  "skipped_cases": [
+    {
+      "case_title": "State NC v Davis",
+      "court": "nc-state",
+      "case_number": "07-CRS-71692",
+      "reason": "non-federal_or_pacer_disabled"
+    },
+    {
+      "case_title": "In re AOLE Cary NC Detective Ervin Leggett",
+      "court": "nc-state",
+      "case_number": "UNKNOWN_FILL_REQUIRED",
+      "reason": "non-federal_or_pacer_disabled"
+    }
+  ]
+}
